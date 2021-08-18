@@ -1,6 +1,6 @@
 #  Copyright 2021 Mahid   e-mahid@outlook.com
 #  I found a replationship among power when I was a college student.
-#  I do not know the importance of this. But thers an interesting pattern.
+#  I do not know the importance of this. But theres an interesting pattern. Factorial
 
 #  This program is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY
