@@ -6,7 +6,7 @@
 #  but WITHOUT ANY WARRANTY
 
 
-def power(p=2):
+def relation(p=2):
 	x=[i**p for i in range(1,p+2)]
 	print(x)
 	n=[]
@@ -17,9 +17,9 @@ def power(p=2):
 		x=n
 		print(x)
 		n=[]
-power(2)
-power(3)
-power(4)
-power(5)
-power(6)
-power(7)
+relation(2)
+relation(3)
+relation(4)
+relation(5)
+relation(6)
+relation(7)
