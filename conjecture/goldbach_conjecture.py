@@ -21,7 +21,7 @@ y=len(prime)
 l=[]
 
 for i in range(y):
-	for j in range(i):
+	for j in range(i+1):
 		a=prime[i]
 		b=prime[j]
 		k=a+b
