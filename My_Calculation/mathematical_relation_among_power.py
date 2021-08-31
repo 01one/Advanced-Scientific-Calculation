@@ -1,4 +1,4 @@
-#  Copyright 2021 Mahid   e-mahid@outlook.com
+#  Copyright 2021 Mahid
 #  I found a replationship among power when I was a college student.
 #  I do not know the importance of this. But theres an interesting pattern. Factorial
 
