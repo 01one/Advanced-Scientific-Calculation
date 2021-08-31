@@ -1,4 +1,4 @@
-#  Copyright 2021 Mahid e-mahid@outlook.com
+#  Copyright 2021 Mahid
 #  This program is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY
 
